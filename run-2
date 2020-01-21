@@ -1,0 +1,2 @@
+#!/bin/bash
+javac -cp lombok-1.18.2.jar *.java
